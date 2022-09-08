@@ -3,9 +3,9 @@
 I am currently attending the fourth period of the biomedicine course.
 
 <div align="center">
-  <a href="https://github.com/Vevezes">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Vevezes&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vevezes&layout=compact&langs_count=7&theme=vue-dark"/>
+  <a href="https://github.com/viniciusgoncalves0">
+  <img height="45%" src="https://github-readme-stats.vercel.app/api?username=viniciusgoncalves0&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusgoncalves0&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
 
 ##
@@ -21,7 +21,7 @@ I am currently attending the fourth period of the biomedicine course.
 
 <div>
 <a href = "mailto:vinicius3012gs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/vinicius-gonçalves-538b711b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 
